@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px) {
+    #app {
+        min-width: 1200px;
+    }
+}
